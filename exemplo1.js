@@ -15,8 +15,9 @@ console.log('Fim')
 // b) quando chegar no número 25 interrompa a instrução e pare o loop
 for(let numero = 1; numero <= 50; numero++){
     console.log(numero)
-    if(numero === 25)
+    if(numero === 25){
     break;
+    }
 }
 console.log('BREAK')
 
