@@ -10,4 +10,7 @@ function resultado(valorRecebido) {
 }
 
 console.log(resultado(5))
+<<<<<<< HEAD
 
+=======
+>>>>>>> 53a5ad877f42693300d2dc08e941c3ef0dc9fce6
