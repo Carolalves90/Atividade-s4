@@ -10,3 +10,4 @@ function resultado(valorRecebido) {
 }
 
 console.log(resultado(5))
+
